@@ -1,0 +1,16 @@
+Size_sqft,Bedrooms,Age,Location,Price
+1200,2,10,Urban,200000
+1500,3,5,Urban,250000
+1800,3,8,Suburban,270000
+2000,4,2,Suburban,320000
+1100,2,15,Rural,180000
+1700,3,7,Urban,260000
+1400,2,12,Rural,210000
+2100,4,3,Suburban,330000
+1600,3,6,Urban,255000
+1900,3,4,Suburban,300000
+1300,2,11,Rural,195000
+1750,3,6,Urban,265000
+1550,3,9,Suburban,240000
+1650,3,5,Urban,250000
+2200,4,2,Suburban,350000
