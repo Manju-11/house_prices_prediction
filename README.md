@@ -4,6 +4,7 @@
 This project predicts house prices using different machine learning regression models. 
 The goal is to analyze housing data and build models that can accurately predict house prices based on given features.
 
+
 ## Technologies Used
 - Python
 - NumPy
